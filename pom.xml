@@ -7,7 +7,7 @@
 	<packaging>pom</packaging>
 	
 	<parent>
-		<groupId>com.sonicle</groupId>
+		<groupId>com.sonicle.maven</groupId>
 		<artifactId>sonicle-superpom</artifactId>
 		<version>1</version>
 	</parent>
