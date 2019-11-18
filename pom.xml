@@ -25,6 +25,7 @@
 		
 		<!-- LIBS: dependencies versions -->
 		<atmosphere.version>2.4.32</atmosphere.version>
+		<cloning.version>1.9.12</cloning.version>
 		<commons-codec.version>1.9</commons-codec.version>
 		<commons-collections4.version>4.2</commons-collections4.version>
 		<commons-io.version>2.4</commons-io.version>
