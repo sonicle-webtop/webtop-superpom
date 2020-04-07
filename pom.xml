@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sonicle.webtop</groupId>
 	<artifactId>webtop-superpom</artifactId>
-	<version>1</version>
+	<version>2</version>
 	<packaging>pom</packaging>
 	
 	<parent>
@@ -48,6 +48,7 @@
 		<jooq.version>3.5.3</jooq.version>
 		<jsch.version>0.1.54</jsch.version>
 		<jsonwebtoken.version>0.10.2</jsonwebtoken.version>
+		<license4j.version>4.7.3</license4j.version>
 		<logback.version>1.2.3</logback.version>
 		<poi.version>3.14</poi.version>
 		<q-builders.version>1.5</q-builders.version>
