@@ -32,6 +32,8 @@
 		<commons-lang3.version>3.3.2</commons-lang3.version>
 		<commons-net.version>3.1</commons-net.version>
 		<commons-vfs2.version>2.2</commons-vfs2.version>
+		<commons-configuration2.version>2.4</commons-configuration2.version>
+		<commons-beanutils.version>1.9.4</commons-beanutils.version>
 		<ez-vcard.version>0.10.4</ez-vcard.version>
 		<gson.version>2.6.2</gson.version>
 		<hikaricp.version>2.4.13</hikaricp.version>
