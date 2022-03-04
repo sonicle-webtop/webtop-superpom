@@ -19,8 +19,7 @@
 		
 		<!-- MAVEN: build-plugins versions -->
 		<jasperreports-plugin.version>2.8</jasperreports-plugin.version>
-		<!--<jooq-codegen-maven.version>3.14.15</jooq-codegen-maven.version>-->
-		<jooq-codegen-maven.version>3.5.3</jooq-codegen-maven.version>
+		<jooq-codegen-maven.version>3.14.15</jooq-codegen-maven.version>
 		<minify-maven-plugin.version>1.0.175</minify-maven-plugin.version>
 		<swagger-codegen-maven-plugin.version>2.3.1</swagger-codegen-maven-plugin.version>
 		
@@ -47,8 +46,7 @@
 		<jersey.version>2.25.1</jersey.version>
 		<joda-time.version>2.7</joda-time.version>
 		<!--<joda-time.version>2.10.4</joda-time.version>-->
-		<!--<jooq.version>3.14.15</jooq.version>-->
-		<jooq.version>3.5.3</jooq.version>
+		<jooq.version>3.14.15</jooq.version>
 		<jsch.version>0.1.54</jsch.version>
 		<jsonwebtoken.version>0.10.2</jsonwebtoken.version>
 		<license4j.version>4.7.3</license4j.version>
