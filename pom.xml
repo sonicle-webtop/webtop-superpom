@@ -57,7 +57,7 @@
 		<q-builders.version>1.5</q-builders.version>
 		<quality-check.version>1.3</quality-check.version>
 		<quartz.version>2.2.3</quartz.version>
-		<shiro.version>1.3.2</shiro.version>
+		<shiro.version>1.8.0</shiro.version>
 		<slf4j.version>1.7.36</slf4j.version>
 		<smack.version>4.4.2</smack.version>
 		<super-csv.version>2.3.1</super-csv.version>
