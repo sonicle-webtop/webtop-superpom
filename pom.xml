@@ -22,6 +22,7 @@
 		<jooq-codegen-maven.version>3.14.15</jooq-codegen-maven.version>
 		<minify-maven-plugin.version>1.0.175</minify-maven-plugin.version>
 		<swagger-codegen-maven-plugin.version>2.3.1</swagger-codegen-maven-plugin.version>
+		<openapi-generator-maven-plugin.version>6.2.1</openapi-generator-maven-plugin.version>
 		
 		<!-- LIBS: dependencies versions -->
 		<atmosphere.version>2.4.32</atmosphere.version>
@@ -30,7 +31,7 @@
 		<commons-collections4.version>4.2</commons-collections4.version>
 		<commons-io.version>2.11.0</commons-io.version>
 		<commons-lang3.version>3.12.0</commons-lang3.version>
-		<commons-net.version>3.1</commons-net.version>
+		<commons-net.version>3.9.0</commons-net.version>
 		<commons-vfs2.version>2.2</commons-vfs2.version>
 		<commons-configuration2.version>2.7</commons-configuration2.version>
 		<commons-beanutils.version>1.9.4</commons-beanutils.version>
@@ -40,7 +41,7 @@
 		<httpclient.version>4.5.13</httpclient.version>
 		<ical4j.version>2.0.0</ical4j.version>	
 		<imgscalr.version>4.2</imgscalr.version>
-		<jackson.version>2.9.4</jackson.version>
+		<jackson.version>2.14.1</jackson.version>
 		<javax-servlet-api.version>3.1.0</javax-servlet-api.version>
 		<javax-websocket-api.version>1.1</javax-websocket-api.version>
 		<jersey.version>2.25.1</jersey.version>
@@ -59,8 +60,10 @@
 		<slf4j.version>1.7.36</slf4j.version>
 		<smack.version>4.4.2</smack.version>
 		<super-csv.version>2.3.1</super-csv.version>
-		<swagger.version>2.0.0</swagger.version>
-		<swagger-annotations.version>1.5.18</swagger-annotations.version>
+		<swagger.version>2.2.6</swagger.version>
+		<!-- Codegens were not able to generate classes with new annotations package (io.swagger.core.v3), so use old version for now! -->
+		<swagger-annotations.version>1.6.9</swagger-annotations.version>
+		<!--<swagger-annotations.version>2.2.7</swagger-annotations.version>-->
 		<caffeine.version>2.9.0</caffeine.version>
 		<postgresql.version>42.3.3</postgresql.version>
 	</properties>
