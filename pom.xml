@@ -23,6 +23,7 @@
 		<minify-maven-plugin.version>1.0.175</minify-maven-plugin.version>
 		<swagger-codegen-maven-plugin.version>2.3.1</swagger-codegen-maven-plugin.version>
 		<openapi-generator-maven-plugin.version>6.2.1</openapi-generator-maven-plugin.version>
+		<!--<openapi-generator-maven-plugin.version>6.6.0</openapi-generator-maven-plugin.version>-->
 		
 		<!-- LIBS: dependencies versions -->
 		<atmosphere.version>2.4.32</atmosphere.version>
